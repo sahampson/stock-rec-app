@@ -1,4 +1,0 @@
-python-dotenv
-ipython
-requests
-pytest
